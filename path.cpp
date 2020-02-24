@@ -1,6 +1,6 @@
-#include <math.h>   // smallpt, a Path Tracer by Kevin Beason, 2008
-#include <stdlib.h> // Make : g++ -O3 -fopenmp smallpt.cpp -o smallpt
-#include <stdio.h>  //        Remove "-fopenmp" for g++ version < 4.2
+#include <math.h>
+#include <stdlib.h>
+#include <stdio.h>
 
 //ベクトルを定義
 struct Vec
